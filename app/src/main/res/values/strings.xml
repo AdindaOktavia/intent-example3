@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentExample3</string>
+    <string name="calculate_bmi">calculate BMI</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="textview">TextView</string>
+    <string name="calc_bmi">Calculate BMI</string>
+</resources>
